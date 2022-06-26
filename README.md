@@ -1,5 +1,11 @@
-### Hi there 👋 Reegan Viljoen here
+# Hi there 👋 Reegan Viljoen here
 
+I am a Ruby on Rails Intern at platform45(check them out they are great)
+
+## I'm currently working on:
+  -  an app to build portfolios(feel free to contribute)
+## How to reach me
+  - Email: reeganviljoen@gmail.com (please no spam)
 <!--
 **reeganviljoen/reeganviljoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
