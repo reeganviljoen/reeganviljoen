@@ -1,7 +1,7 @@
 # Hi there 👋 Reegan Viljoen here
 
 ## About me 
-I am a Ruby on Rails Intern at platform45(check them out they are great)
+I am a Junior Ruby on Rails developer at platform45(check them out they are great)
 
 ## I'm currently working on 🔭:
   -  an app to build portfolios(feel free to contribute)
