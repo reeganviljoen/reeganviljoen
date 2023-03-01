@@ -4,7 +4,7 @@
 I am a Junior Ruby on Rails developer at platform45(check them out they are great)
 
 ## I'm currently working on 🔭:
-  -  an app to build portfolios(feel free to contribute)
+  nothing at the moment :disappointed_relieved:
 ## How to reach me 📫
   - Email: reeganviljoen@gmail.com (please no spam)
   
