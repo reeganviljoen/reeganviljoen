@@ -5,8 +5,6 @@ I am a Junior Ruby on Rails developer at platform45(check them out they are grea
 
 ## I'm currently working on 🔭:
   Adding some features to view_component awell as fixing some bugs 😄
-## How to reach me 📫
-  - Email: reeganviljoen@gmail.com (please no spam)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeganviljoen&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeganviljoen&hide=purebasic,jupyter%20notebook&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
