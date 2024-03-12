@@ -1,7 +1,7 @@
 # Hi there 👋 Reegan Viljoen here
 
 ## About me 
-I am a Junior Ruby on Rails developer at platform45(check them out they are great)
+I am a Ruby on Rails developer, that loves working with ruby libraries in my spare time 
 
 ## I'm currently working on 🔭:
   Adding some features to view_component awell as fixing some bugs 😄
