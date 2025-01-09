@@ -5,7 +5,6 @@ I am a Ruby on Rails developer, that loves working with ruby libraries in my spa
 
 ## I'm currently working on 🔭:
   Adding some features to view_component awell as fixing some bugs 😄
-  A joking hazard :) 
 
 <!--
 **reeganviljoen/reeganviljoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
